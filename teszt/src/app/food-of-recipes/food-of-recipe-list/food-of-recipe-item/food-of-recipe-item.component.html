@@ -1,0 +1,26 @@
+<div class="row">
+	<div class="col-12">
+		<h2>Ételek receptjei</h2>
+		<div class="alert alert-danger" *ngIf="errorMsg.length > 0">
+			<h1>Hiba van!</h1>
+			<p>{{ errorMsg }}</p>
+		</div>
+		<div class="alert alert-danger" *ngIf="loadedPost && !isFetching">
+		  <h1>Nincs megjeleníthető recept.</h1>
+		</div>
+		<div *ngFor="let item of recipes">
+			<div class="img-thumbnail recipe-div">
+				<a href="{{ item.imagePath }}" class="recipe-link">
+					<img [src]="item.imagePath"
+							title="{{ item.name }}"
+							alt="{{ item.name }}"
+							class="recipe-img">
+					<h2 class="bg-white text-center">{{ item.name }}</h2>
+				</a>
+			</div>
+		</div>
+		<div class="alert alert-warning" *ngIf="isFetching">
+			<h1>Töltőm a recepteket...</h1>
+		</div>
+	</div>
+</div>

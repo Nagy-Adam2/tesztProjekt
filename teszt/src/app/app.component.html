@@ -1,0 +1,9 @@
+<app-header (selected)="onSelect($event)"></app-header>
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <app-food-of-recipes *ngIf="foodOfRecipesComp === 'food-of-recipes'"></app-food-of-recipes>
+      <app-messages *ngIf="messagesComp === 'messages' && foodOfRecipesComp !== 'food-of-recipes'"></app-messages>   
+    </div>
+  </div>
+</div>

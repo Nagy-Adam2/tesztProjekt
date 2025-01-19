@@ -1,0 +1,20 @@
+<script>
+    $(document).ready(function()
+    {
+        $('#message').summernote();
+    });
+</script>
+<h2>Kapcsolat</h2>
+<p>Az alábbiakban felveheti velünk a kapcsolatot:</p>
+<p>§RESPONSE§</p>
+<form method="post">
+    <label for="name">Név:</label>
+    <input type="text" name="name" id="name" placeholder="Név" required><br>
+    <label for="email">Email:</label>
+    <input type="email" name="email" id="email" placeholder="Email" required><br>
+    <label for="subject">Tárgy:</label>
+    <input type="text" name="subject" id="subject" placeholder="Tárgy" required><br>
+    <label for="message">Üzenet:</label>
+    <textarea name="message" id="message" required></textarea><br>
+    <input type="submit" name="ok" value="Küldés">
+</form>

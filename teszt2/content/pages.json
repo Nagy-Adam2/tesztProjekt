@@ -1,0 +1,66 @@
+{
+    "index" : {
+        "enabled" : true,
+        "class" : "IndexController",
+        "template" : "main.html",
+        "basePage" : "index.html",
+        "permission" : 0
+    },
+    "about" : {
+        "enabled" : true,
+        "template" : "about.html",
+        "class" : "AboutController",
+        "basePage" : "index.html",
+        "permission" : 0
+    },
+    "contact" : {
+        "enabled" : true,
+        "template" : "contact.html",
+        "class" : "ContactController",
+        "basePage" : "index.html",
+        "permission" : 0
+    },
+    "notFound" : {
+        "enabled" : true,
+        "template" : "404.html",
+        "class" : "NotFoundController",
+        "basePage" : false,
+        "permission" : 0
+    },
+    "forbidden" : {
+        "enabled" : true,
+        "template" : "forbidden.html",
+        "class" : "ForbiddenController",
+        "basePage" : false,
+        "permission" : 0
+    },
+    "admin" : {
+        "enabled" : true,
+        "template" : "admin_main.html",
+        "class" : "AdminController",
+        "basePage" : "admin.html",
+        "permission" : 1
+    },
+    "texts" : {
+        "enabled" : true,
+        "template" : "texts.html",
+        "class" : "AdminTextsController",
+        "basePage" : "admin.html",
+        "permission" : 1
+    },
+    "login" : {
+        "enabled" : true,
+        "template" : "login.html",
+        "class" : "LoginController",
+        "basePage" : false,
+        "permission" : 0
+    }
+    ,
+    "logout" : {
+        "enabled" : true,
+        "template" : "logout.html",
+        "class" : "LogoutController",
+        "basePage" : false,
+        "permission" : 0
+    }
+}

@@ -1,0 +1,37 @@
+<div class="row">
+    <div class="col-12">
+    <div class="alert alert-danger" *ngIf="errorMsg.length > 0">
+        <h1>Hiba van!</h1>
+        <p>{{ errorMsg }}</p>
+    </div>
+    <div class="alert alert-danger" *ngIf="loadedPost && !isFetching">
+      <h1>Nincs megjeleníthető poszt.</h1>
+    </div>
+    <div class="card my-3" *ngFor="let item of posts;">
+      <div class="card-header">
+        <h3 class="text-primary">{{ item.title }}</h3>
+      </div>
+      <div class="card-body text-primary row">
+        <div class="col-12 col-sm-12 col-md-12 col-lg-8 small-order-2">
+          <div class="mb-2">
+            <p class="text-justify">{{ item.body }}</p>
+          </div>
+          <div class="mb-4">
+            <a href="{{ item.url }}" target="_blank">
+              {{ item.url }}
+            </a>
+          </div>
+        </div>
+        <div class="col-none col-sm-none col-md-none col-lg-4 small-order-1 img-box-align" *ngIf="item.imagePath.length">
+          <img src="{{ item.imagePath }}" alt="{{ item.title }}" title="{{ item.title }}" class="img-thumbnail message-img">
+        </div>
+      </div>
+      <div class="card-footer text-primary">
+        {{ item.userMessage }}
+      </div>
+    </div>
+    <div class="alert alert-warning" *ngIf="isFetching">
+      <h1>Töltőm a posztokat...</h1>
+    </div>
+  </div>
+</div>

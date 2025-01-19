@@ -1,0 +1,15 @@
+@bg-images: url("/assets/images/main-background.svg");
+@bg-color: lightgray;
+@bg-no-repeat: no-repeat;
+@bg-size: cover;
+@bg-repaet: repeat;
+
+body {
+  background-image: @bg-images;
+  background-color: @bg-color;
+  background-repeat: @bg-no-repeat;
+  background-size: @bg-size;
+  @media screen and (max-width: 576px) {
+    background-repeat: @bg-repaet;
+  }
+}
