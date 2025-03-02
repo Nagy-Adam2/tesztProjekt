@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Belépés</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>Belépés</h1>
+        <p class="error">§RESPONSE§</p>
+        <form method="post">
+            <label for="user">Felhasználónév</label>
+            <input type="text" name="user" id="user" placeholder="Felhasználónév" value="§USER§"><br>
+            <label for="pass">Jelszó</label>
+            <input type="password" name="pass" id="pass" placeholder="Jelszó"><br>
+            <img src="data:image/png;base64,§BASEIMG§" title="captcha" alt="captcha"><br>
+            <input type="text" name="captcha" placeholder="CAPTCHA (nem kis-nagy betű érzékeny)">
+            <input type="submit" name="ok" value="Belépés">
+        </form>
+    </body>
+</html>

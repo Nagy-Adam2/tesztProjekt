@@ -1,0 +1,117 @@
+@bg-images: url("../content/images/main-background.svg");
+@bg-color: lightgray;
+@bg-no-repeat: no-repeat;
+@bg-size: cover;
+@bg-repaet: repeat;
+@flex-direction-row: row;
+@display-inline-flex: inline-flex;
+@inline-flexmargin-right: 20px;
+@recipe-div-float-left: left;
+@recipe-div-margin: 20px 42px 20px 0;
+@recipe-link-none: none;
+@recipe-img-max-height: 380px;
+@recipe-img-small-max-height: 320px;
+@recipe-div-hover-transition: all .5s ease-out .1s;
+@recipe-div-hover-transform-scale: scale(1.1);
+@recipe-div-hover-box-shadow-grey: 3px 6px 3px 0 grey;
+@message-img-width: 92%;
+@text-justify: justify;
+@img-box-align-right: right;
+@message-img-small-width: 65%;
+@small-order-two: 2;
+@small-order-one: 1;
+@small-order-margin-bottom: 10px;
+@img-box-align-center: center;
+@message-img-middle-width: 100%;
+
+
+body {
+  background-image: @bg-images;
+  background-color: @bg-color;
+  background-repeat: @bg-no-repeat;
+  background-size: @bg-size;
+}
+
+@media screen and (max-width: 576px) {
+  body {
+    background-repeat: @bg-repaet;
+  }
+}
+
+
+@bg-color: lightgray;
+.nav-item:hover {
+  background-color: @bg-color;
+}
+
+@media screen and (max-width: 992px) {
+  .navbar-nav-row {
+    flex-direction: @flex-direction-row;
+  }
+  .item-inline-flex {
+    display: @display-inline-flex;
+    margin-right: @inline-flexmargin-right;
+  }
+}
+
+
+.recipe-div {
+  float: @recipe-div-float-left;
+  margin: @recipe-div-margin;
+}
+
+.recipe-link {
+  text-decoration: @recipe-link-none;
+}
+
+.recipe-img {
+  max-height: @recipe-img-max-height;
+}
+
+@media screen and (max-width: 576px) {
+  .recipe-img {
+      max-height: @recipe-img-small-max-height;
+  }
+}
+
+.recipe-div:hover {
+  transition: @recipe-div-hover-transition;
+  transform: @recipe-div-hover-transform-scale;
+  box-shadow: @recipe-div-hover-box-shadow-grey;
+}
+
+
+.message-img {
+  width: @message-img-width;
+}
+
+.text-justify {
+  text-align: @text-justify
+}
+
+.img-box-align {
+  text-align: @img-box-align-right;
+}
+
+@media screen and (max-width: 992px) {
+  .message-img {
+      width: @message-img-small-width;
+  }
+  .small-order-2 {
+      order: @small-order-two;
+      margin-bottom: @small-order-margin-bottom;
+  }
+  .small-order-1 {
+      order: @small-order-one;   
+      margin-bottom: @small-order-margin-bottom;
+  }
+  .img-box-align {
+      text-align: @img-box-align-center;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .message-img {
+      width: @message-img-middle-width;
+  }
+}

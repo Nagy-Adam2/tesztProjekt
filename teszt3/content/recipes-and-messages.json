@@ -1,0 +1,248 @@
+{
+  "Recipes-and-messages": [
+    {
+      "title": "Csirkepaprikás gombával",
+      "id": 1,
+      "Message": {
+        "body": "Írom, hogyan kell elkészíteni. A fél csirkét megtisztítjuk és feldaraboljuk. A paprikát és a paradicsomot felkockázzuk, a hagymát apróra vágjuk. A gombákat megtisztítjuk és alaposan megmossuk, aztán felszeleteljük. Az zsíron megdinszteljük a hagymát, hozzáadjuk a fokhagymát, aztán lehuzzuk a tűzhelyről, utána őrölt borsot és őrölt pirospaprikát hozzáadjuk elkeverjük és vissza a tűzhelyre. A pörkölthőz hozzáadjuk a kockázot paprikát, paradicsomot és a szeletelt gombát, pár percig együtt pároljuk, utána a feldarabolt csirkét hozzáadjuk. Folyamatos párolással készre pároljuk a darabólt csirkét és az alapanyagot, közben elpárolodott levet potoljúk vízzel. A lisztet keverjük simára a tejföllel, majd habarjuk be vele a puhára párolt csirkét. Habverővel állandóan kevergetve lassan összeforraljuk. Közben megkóstoljuk, ha szükséges, sóval utánízesítjük, közben egy kevés tejszínt öntünk hozzá és lassan készre forraljuk. Galuskával tálaljuk.",
+        "imagePath": "/content/images/chicken-pepper-with-mushrooms.svg",
+        "url": "/content/images/chicken-pepper-with-mushrooms.svg",
+        "userMessage": "Nagy Ádám"
+      }
+    },
+    {
+      "title": "Fokhagymás sült karaj",
+      "id": 2,
+      "Message": {
+        "body": "Írom, hogyan kell elkészíteni, meg az ételek receptkönyv résszében is megtalálható. Kicsit klopfold ki a karajszeleteket és a szélén a hártyákat vagdosd be, hogy ne ugorjon össze sütés közben. Az olajat, a reszelt fokhagymát, a sót és az őrölt borsot keverjük össze és alaposan kenjük be vele a karajszeleteket. Legalább egy jó 10 percig pihentessük, utána egy serpenyőben hevítsünk kevés olajat és néhány perc alatt süssük meg a karajszeleteket mindkét oldalát. Tepsis burgonyával tálaljuk.",
+        "imagePath": "/content/images/garlic-roast-chop.svg",
+        "url": "/content/images/garlic-roast-chop.svg",
+        "userMessage": "Nagy Ádám"
+      }
+    },
+    {
+      "title": "Rakott tészta",
+      "id": 3,
+      "Message": {
+        "body": "Írom, hogyan kell elkészíteni, meg az ételek receptkönyv résszében is megtalálható. Párizsit összevágjuk 1-1 cm kockákra. Egy kis fej hagymát apróra összevágjuk és olajon megdinszteljük, majd hozzáadjuk a kockákra vágott párizsikat. Kocka tésztát enyhén sós, néhány csep olaj hozzáadásával kifőzük, aztán leszürjük. Pirított párizsi kockákat összekeverni a kifőtt tésztával, aztán tepsit kikenjük olajal és belerakjuk a keveréket. 3 db tojást felütni és felverni alaposan. Kikevert tojáshoz őrölt borsót, delikádot, tejfölt adunk hozzá. Kikevert fűszeres tojást rá a tepsiben lévő keverékre és sajtot reszerni a tetejére, aztán sütőbe berakni és kb 1 óra alatt készre sütni.",
+        "imagePath": "/content/images/casserole-pasta.svg",
+        "url": "/content/images/casserole-pasta.svg",
+        "userMessage": "Nagy Ádám"
+      }
+    },
+    {
+      "title": "Savanyú kaposztás sült tarja",
+      "id": 4,
+      "Message": {
+        "body": "Írom, hogyan kell elkészíteni. Tarjaszeleteket előző nap befűszerezzük sóval, borsal, resszelt fokhagymával és apróra vágott vöröshagymával. Savanyú káposztát 2-szer kimossuk, aztán összevágjuk, utána tepsit bezsírozzuk. A káposztát belerkjuk a tepibe, aztán ráigazítani a tarja szeleteket és foliát a tetejére rakjuk. Sütés közben a káposztát néha megforgatni, meg ha a szeletek egyik fele megsült akkor átfordítani. Végül a sült tarja szeleteket tálra helyezzük, aztán káposztát tovább sütjük a sütőben folia nélkül, utána tálaljuk a hús mellé.",
+        "imagePath": "/content/images/roasted-sauerkraut-with-ribs.svg",
+        "url": "/content/images/roasted-sauerkraut-with-ribs.svg",
+        "userMessage": "Nagy Ádám"
+      }
+    },
+    {
+      "title": "Sertéspörkölt",
+      "id": 5,
+      "Message": {
+        "body": "Írom, hogyan kell elkészíteni. Kevés zsiradékban megdinszteljük az apróra összevágott hagymát és beletesszük a kockára vágott húst. Megsózzuk, hozzáadjuk a fokhagymát és saját levében pörköljük. Mikor zsírjára sült, hintsük meg paprikával és öntsük fel kevés vízzel addig még ép hogy elepje a húst. Gyakran kevergessük, és időként a fedő alatt elpárolodott vizet pótoljuk. Ha a sertéspörkölt felszínén vastagon áll a paprikaszín, akkor lemerjük, mert az étvágyrontó. Amikor a hús puhulni kezd, tegyük bele feldarabolt zöldpaprikát is. Lassú tűzön pároljuk készre. Fedővel lefedve tartjuk melegen tálalásig, aztán főtt-sült burgonyával tálaljuk.",
+        "imagePath": "/content/images/pork-stew.svg",
+        "url": "/content/images/pork-stew.svg",
+        "userMessage": "Nagy Ádám"
+      }
+    },
+    {
+      "title": "Bakonyi sertésborda",
+      "id": 6,
+      "Message": {
+        "body": "Írom, hogyan kell elkészíteni, meg az ételek receptkönyv résszében is megtalálható. A karajt vékony szeletekre vágjuk, kiklopfoljuk, majd ételízesitővel elkevert lisztbe forgatjúk és forró olajban mindkét oldalát pirosra sütjük. Ha megsült, akkor kíszedjük egy lábosba. A visszamaradt olajban apró kockákra vágott füstölt szalonnát megpirítjuk, utána megdinszteljük az apróra vágott hagymát. Beletesszük a megtisztított és felszeletelt gombát. Sóval, borssal fűszerezzük és készre pároljuk. A tejszínt és a tejfölt elkeverjük a mustárral, citromlével, sóval és borssal, majd a gombára öntjük és összeforraljuk. Tálaláskor a mártást a sült húsra öntjük. Párolt rizzsel tálaljuk.",
+        "imagePath": "/content/images/bakony-pork-ribs.svg",
+        "url": "/content/images/bakony-pork-ribs.svg",
+        "userMessage": "Nagy Ádám"
+      }
+    },
+    {
+      "title": "Brassoi aprópecsenye",
+      "id": 7,
+      "Message": {
+        "body": "Írom, hogyan kell elkészíteni, meg az ételek receptkönyv résszében is megtalálható. A húst és a burgonyát 1 x 1 cm-es kockára felvágjuk. A kis kockákra vágott zsírszalonnát addig pirítjuk még zsírt nem enged ki magából, aztán apró kockákra vágott füstölt szalonnával együtt megpirítjuk. Kockára vágott húst hozzáadjuk és hirtelen megpirítjuk, majd sózzuk, borsozzuk és hozzáadjuk a aprított fokhagymát, meg a őrölt pirospaprikát is. Keverjük össze, majd öntsük fel kb. 2 dl vízzel és lefedve pároljuk puhára a húst. Közben bő, forró olajban süssük enyhén pirosra a burgonyakockákat, aztán szedjük ki szalvétára. Tálaláskor a megsült kész hús mellé helyezzük el a sült burgonyakockákat, aztán ízlés szerint csemege uborkával díszítsük.",
+        "imagePath": "/content/images/brasso-tiny-roast.svg",
+        "url": "/content/images/brasso-tiny-roast.svg",
+        "userMessage": "Nagy Ádám"
+      }
+    },
+    {
+      "title": "Cigánypecsenye",
+      "id": 8,
+      "Message": {
+        "body": "Írom, hogyan kell elkészíteni. A tarjaszeleteket kiklopfoljuk, az inakat meg széleit néhány helyen bevagdossuk, utána megsózzuk és olajban áztatót apróra vágott fokhagymátban megforgassuk. Úgy 10 percig állva hagyjuk a tarjaszeleteket, aztán a őrölt borssal meg a pirospaprikával fűszerezett lisztbe forgatjuk. A füstölt szalonnából 4-5 szeletet vágunk és 3-4 helyen bevágjuk. Egy serpenyőben kisütjük a szalonnaszeleteket, majd félretesszük. A visszamaradt zsiradékban szép pirosra sütjük a tarjaszeleteket. A sült szalonnaszeletek tetejét őrölt pirospaprikába mártjuk és a kisült tarjára tesszük, aztán mellé köretként petrezselymes burgonyával tálaljuk.",
+        "imagePath": "/content/images/gypsteak-roast.svg",
+        "url": "/content/images/gypsteak-roast.svg",
+        "userMessage": "Nagy Ádám"
+      }
+    }
+  ],
+  "Recipes-and-messages-en": [
+    {
+      "title": "Chicken pepper with mushrooms",
+	  "id": 1,
+	  "Message": {
+		"body": "I write how to make it. Half the chicken is cleaned and minced. Dice the peppers and tomatoes and chop the onion. The mushrooms are cleaned and thoroughly washed and then sliced. On the fat, drizzle the onion, add the garlic, then peel it off the stove, then add the ground pepper and ground red pepper, stir and return to the stove. Add the risky peppers, tomatoes and sliced mushrooms to the stew, cook for a few minutes, then add the chopped chicken. Steam the carcasses and the raw material to the steamed steam, replacing the evaporated juice with water. Stir the flour until smooth with the sour cream, then cover with the soft steamed chicken. Bring to a boil, stirring constantly, slowly. Meanwhile, taste if necessary, season with salt and add a little cream and bring to a boil. Serve with dumplings.",
+		"imagePath": "/content/images/chicken-pepper-with-mushrooms.svg",
+		"url": "/content/images/chicken-pepper-with-mushrooms.svg",
+		"userMessage": "Adam Nagy"
+	  }
+    },
+    {
+      "title": "Garlic roast chop",
+	  "id": 2,
+	  "Message": {
+		"body": "I write how to make it, and it can also be found in the recipe book part of the dishes. Slightly chop the loin slices and cut the edges on the edges to prevent them from skewing while frying. Stir in oil, grated garlic, salt and ground pepper and thoroughly lubricate the pork chops. Let it rest for at least a good 10 minutes, then heat a little oil in a frying pan and fry both sides of the loin slices for a few minutes. Serve with baking potatoes.",
+		"imagePath": "/content/images/garlic-roast-chop.svg",
+		"url": "/content/images/garlic-roast-chop.svg",
+		"userMessage": "Adam Nagy"
+	  }
+    },
+    {
+      "title": "Casserole pasta",
+	  "id": 3,
+	  "Message": {
+		"body": "I write how to make it, and it can also be found in the recipe book part of the dishes. Cut Paris into 1 cm cubes. Slightly chop a little onion and drizzle with oil, then add the paris cut into cubes. Cube dough is lightly salted, adding a few drops of oil and then filtered. Mix the toasted Paris cubes with the cooked dough, then brush the baking oil with oil and add the mixture. Beat 3 eggs and beat thoroughly. Ground peas, delicacy and sour cream are added to the mixed eggs. Mix the spicy egg onto the mixture in the pan and place the cheese on top, then put in the oven and bake for about 1 hour.",
+		"imagePath": "/content/images/casserole-pasta.svg",
+		"url": "/content/images/casserole-pasta.svg",
+		"userMessage": "Adam Nagy"
+	  }
+    },
+    {
+      "title": "Roasted sauerkraut with ribs",
+	  "id": 4,
+	  "Message": {
+		"body": "I write how to make it. Spice ribs the previous day with salt, pepper, grated garlic and chopped onion. Sauerkraut is washed twice, then chopped, then greased on a baking sheet. Put the cabbage in the baking tray, then adjust the ribs and place the foil on top. While frying, the cabbage is sometimes rotated, and if one half of the slices are cooked, turn over. Finally, place the roasted ribs on a plate, then fry the cabbage in the oven without foil, then serve with the meat.",
+		"imagePath": "/content/images/roasted-sauerkraut-with-ribs.svg",
+		"url": "/content//images/roasted-sauerkraut-with-ribs.svg",
+		"userMessage": "Adam Nagy"
+      }
+    },
+    {
+      "title": "Pork stew",
+	  "id": 5,
+	  "Message": {
+		"body": "I write how to make it. We fry the chopped onion in a little fat and add the diced meat. Add salt and garlic and fry in its own juice. When fried, sprinkle with paprika and pour in a little water until intact to cover the meat. Stir frequently and occasionally sprinkle the water that has evaporated under the lid. If the pepper color is thick on the surface of the pork stew, we weigh it down because it is appetizing. When the meat starts to soften, let us also add chopped green peppers. Simmer until done over low heat. Cover and keep warm until served, then serve with boiled-fried potatoes.",
+		"imagePath": "/content/images/pork-stew.svg",
+		"url": "/content/images/pork-stew.svg",
+		"userMessage": "Adam Nagy"
+      }
+    },
+    {
+      "title": "Bakony pork ribs",
+	  "id": 6,
+	  "Message": {
+		"body": "I write how to make it, and it can also be found in the recipe book part of the dishes. Cut the pork chop into thin slices, chop, turn into flour mixed with seasoning and fry both sides in hot oil until red. Once baked, let's get it out in a pot. In the remaining oil we roast the smoked bacon cut into small cubes, then drizzle the chopped onion. Add the cleaned and sliced mushrooms. Season with salt and pepper and simmer. Mix the cream and sour cream with mustard, lemon juice, salt and pepper, then pour over the mushrooms and bring to a boil. At serving, the sauce is poured over the roast meat. Serve with steamed rice.",
+		"imagePath": "/content/images/bakony-pork-ribs.svg",
+		"url": "/content/images/bakony-pork-ribs.svg",
+		"userMessage": "Adam Nagy"
+      }
+    },
+    {
+      "title": "Brasso tiny roast",
+	  "id": 7,
+	  "Message": {
+		"body": "I write how to make it, and it can also be found in the recipe book part of the dishes. Cut the meat and potatoes into 1 x 1 cm cubes. The fat bacon cut into small cubes is toasted until it loses fat, and then roasted together with the smoked bacon cut into small cubes. Add the diced meat and roast all at once, then salt, pepper and add the chopped garlic and ground red pepper. Stir and then pour over approx. Season the meat with 2 dl water and cover until soft. Meanwhile, fry the potato cubes lightly red in a generous amount of hot oil and place on a napkin. When serving, place the roasted potato cubes next to the roasted ready-made meat, then garnish with a delicious cucumber.",
+		"imagePath": "/content/images/brasso-tiny-roast.svg",
+		"url": "/content/images/brasso-tiny-roast.svg",
+		"userMessage": "Adam Nagy"
+      }
+    },
+    {
+      "title": "Gypsteak roast",
+	  "id": 8,
+	  "Message": {
+		"body": "I write how to make it. Trim the slices, whisk the tendons and the edges in a few places, then salt and roll in oil soaked in chopped garlic. Leave the slices for about 10 minutes , then roll in the ground pepper and the red pepper seasoned flour. We cut 4-5 slices of smoked bacon and cut them in 3-4 places. Fry the bacon slices in a pan and set aside. In the remaining fat, fry the slices of red to a beautiful red. We dip the top of the fried bacon slices in ground red pepper and place on the fried tenderloin, then serve with parsley potatoes as a side dish.",
+		"imagePath": "/content/images/gypsteak-roast.svg",
+		"url": "/content/images/gypsteak-roast.svg",
+		"userMessage": "Adam Nagy"
+      }
+    }
+  ],
+  "Recipes-and-messages-de": [
+    {
+      "title": "Hühnerpaprika mit Pilzen",
+	  "id": 1,
+	  "Message": {
+		"body": "Ich schreibe, wie man es macht. Die Hälfte des Hähnchens wird gereinigt und zerkleinert. Paprika und Tomaten würfeln und die Zwiebel hacken. Die Pilze werden gereinigt, gründlich gewaschen und anschließend in Scheiben geschnitten. Auf das Fett die Zwiebel träufeln, den Knoblauch dazugeben, dann vom Herd schälen, dann den gemahlenen Pfeffer und den gemahlenen roten Pfeffer dazugeben, umrühren und wieder auf den Herd stellen. Die riskanten Paprikaschoten, Tomaten und geschnittenen Pilze zum Eintopf geben, einige Minuten kochen lassen und dann das gehackte Hähnchen hinzufügen. Dämpfen Sie die Schlachtkörper und das Rohmaterial zu gedämpftem Dampf und ersetzen Sie den verdampften Saft durch Wasser. Das Mehl mit der sauren Sahne glatt rühren und dann mit dem weich gedünsteten Hähnchenfleisch bedecken. Unter ständigem Rühren langsam zum Kochen bringen. In der Zwischenzeit bei Bedarf abschmecken, mit Salz abschmecken und etwas Sahne hinzufügen und aufkochen lassen. Mit Knödeln servieren.",
+		"imagePath": "/content/images/chicken-pepper-with-mushrooms.svg",
+		"url": "/content/images/chicken-pepper-with-mushrooms.svg",
+		"userMessage": "Adam Nagy"
+      }
+    },
+    {
+      "title": "Knoblauchbratenkotelett",
+	  "id": 2,
+	  "Message": {
+		"body": "Ich schreibe, wie man es macht, und es ist auch im Rezeptbuchteil der Gerichte zu finden. Die Lendenscheiben leicht hacken und die Kanten an den Rändern abschneiden, damit sie beim Braten nicht schief laufen. Öl, geriebenen Knoblauch, Salz und gemahlenen Pfeffer einrühren und die Schweinekoteletts gründlich einfetten. Mindestens gut 10 Minuten ruhen lassen, dann etwas Öl in einer Bratpfanne erhitzen und die Lendenscheiben von beiden Seiten einige Minuten anbraten. Mit Backkartoffeln servieren.",
+		"imagePath": "/content/images/garlic-roast-chop.svg",
+		"url": "/content/images/garlic-roast-chop.svg",
+		"userMessage": "Adam Nagy"
+      }
+    },
+    {
+      "title": "Auflaufnudeln",
+	  "id": 3,
+	  "Message": {
+		"body": "Ich schreibe, wie man es macht, und es ist auch im Rezeptbuchteil der Gerichte zu finden. Paris in 1 cm große Würfel schneiden. Eine kleine Zwiebel leicht hacken und mit Öl beträufeln, dann die in Würfel geschnittenen Zwiebeln dazugeben. Würfelteig wird leicht gesalzen, mit ein paar Tropfen Öl versetzt und dann gefiltert. Die gerösteten Pariser Würfel mit dem gekochten Teig vermischen, dann das Backöl mit Öl bestreichen und die Mischung dazugeben. 3 Eier verquirlen und gründlich verrühren. Den gemischten Eiern werden gemahlene Erbsen, Delikatesse und Sauerrahm hinzugefügt. Das scharf gewürzte Ei mit der Mischung in der Pfanne vermischen und den Käse darauf legen, dann in den Ofen schieben und etwa 1 Stunde backen.",
+		"imagePath": "/content/images/casserole-pasta.svg",
+		"url": "/content/images/casserole-pasta.svg",
+		"userMessage": "Adam Nagy"
+      }
+    },
+    {
+      "title": "Geröstetes Sauerkraut mit Rippch",
+	  "id": 4,
+	  "Message": {
+		"body": "Ich schreibe, wie man es macht. Rippchen vom Vortag mit Salz, Pfeffer, geriebenem Knoblauch und gehackten Zwiebeln würzen. Sauerkraut wird zweimal gewaschen, dann gehackt und dann auf einem Backblech eingefettet. Legen Sie den Kohl auf das Backblech, passen Sie die Rippen an und legen Sie die Folie darauf. Während des Bratens wird der Kohl manchmal gedreht, und wenn eine Hälfte der Scheiben gar ist, wenden Sie ihn. Zum Schluss die gebratenen Rippchen auf einen Teller legen, dann den Kohl ohne Folie im Ofen braten und dann mit dem Fleisch servieren.",
+		"imagePath": "/content/images/roasted-sauerkraut-with-ribs.svg",
+		"url": "/content/images/roasted-sauerkraut-with-ribs.svg",
+		"userMessage": "Adam Nagy"
+      }
+    },
+    {
+      "title": "Eintopf mit Schweinefleisch",
+	  "id": 5,
+	  "Message": {
+		"body": "Ich schreibe, wie man es macht. Wir braten die gehackte Zwiebel in etwas Fett an und fügen das gewürfelte Fleisch hinzu. Salz und Knoblauch hinzufügen und im eigenen Saft anbraten. Nach dem Frittieren mit Paprika bestreuen und mit etwas Wasser aufgießen, bis das Fleisch vollständig bedeckt ist. Dabei häufig umrühren und gelegentlich das verdunstete Wasser unter den Deckel streuen. Wenn die Pfefferfarbe auf der Oberfläche des Schweineeintopfs dick ist, beschweren wir ihn, weil er appetitlich ist. Wenn das Fleisch weicher wird, fügen wir auch gehackte grüne Paprika hinzu. Bei schwacher Hitze köcheln lassen, bis es gar ist. Bis zum Servieren abdecken und warm halten, dann mit Salzkartoffeln servieren.",
+		"imagePath": "/content/images/pork-stew.svg",
+		"url": "/content/images/pork-stew.svg",
+		"userMessage": "Adam Nagy"
+      }
+    },
+    {
+      "title": "Bakony pork ribs",
+	  "id": 6,
+	  "Message": {
+		"body": "Ich schreibe, wie man es macht, und es ist auch im Rezeptbuchteil der Gerichte zu finden. Das Schweinekotelett in dünne Scheiben schneiden, hacken, in Mehl mit Gewürzen wenden und in heißem Öl von beiden Seiten rot anbraten. Sobald es gebacken ist, geben wir es in einen Topf. Im restlichen Öl rösten wir den in kleine Würfel geschnittenen Räucherspeck und beträufeln ihn dann mit der gehackten Zwiebel. Die geputzten und in Scheiben geschnittenen Champignons dazugeben. Mit Salz und Pfeffer würzen und köcheln lassen. Sahne und Sauerrahm mit Senf, Zitronensaft, Salz und Pfeffer verrühren, dann über die Pilze gießen und zum Kochen bringen. Beim Servieren wird die Soße über das gebratene Fleisch gegossen. Mit gedünstetem Reis servieren.",
+		"imagePath": "/content/images/bakony-pork-ribs.svg",
+		"url": "/content/images/bakony-pork-ribs.svg",
+		"userMessage": "Adam Nagy"
+      }
+    },
+    {
+      "title": "Brasso tiny roast",
+	  "id": 7,
+	  "Message": {
+		"body": "Ich schreibe, wie man es macht, und es ist auch im Rezeptbuchteil der Gerichte zu finden. Fleisch und Kartoffeln in 1 x 1 cm große Würfel schneiden. Der in kleine Würfel geschnittene Fettspeck wird geröstet, bis er Fett verliert, und dann zusammen mit dem in kleine Würfel geschnittenen Räucherspeck geröstet. Fügen Sie das gewürfelte Fleisch hinzu und braten Sie alles auf einmal an, dann salzen und pfeffern Sie und fügen Sie den gehackten Knoblauch und den gemahlenen roten Pfeffer hinzu. Umrühren und anschließend ca. Das Fleisch mit 2 dl Wasser würzen und zugedeckt weich werden lassen. In der Zwischenzeit die Kartoffelwürfel in reichlich heißem Öl leicht rot anbraten und auf eine Serviette legen. Beim Servieren die gerösteten Kartoffelwürfel neben das gebratene Fertigfleisch legen und mit einer leckeren Gurke garnieren.",
+		"imagePath": "/content/images/brasso-tiny-roast.svg",
+		"url": "/content/images/brasso-tiny-roast.svg",
+		"userMessage": "Adam Nagy"
+      }
+    },
+    {
+      "title": "Gypsteak roast",
+	  "id": 8,
+	  "Message": {
+		"body": "Ich schreibe, wie man es macht. Schneiden Sie die Scheiben ab, verquirlen Sie die Sehnen und die Ränder an einigen Stellen, salzen Sie sie und wälzen Sie sie in mit gehacktem Knoblauch getränktem Öl. Lassen Sie die Scheiben etwa 10 Minuten lang stehen und wälzen Sie sie dann in der gemahlenen Paprika und dem mit roten Paprika gewürzten Mehl. Wir schneiden 4-5 Scheiben geräucherten Speck und schneiden sie an 3-4 Stellen ein. Die Speckscheiben in einer Pfanne anbraten und beiseite stellen. Im restlichen Fett die roten Scheiben schön rot anbraten. Wir tauchen die Oberseite der gebratenen Speckscheiben in gemahlenen roten Pfeffer und legen sie auf das gebratene Filet. Anschließend servieren wir sie mit Petersilienkartoffeln als Beilage.",
+		"imagePath": "/content/images/gypsteak-roast.svg",
+		"url": "/content/images/gypsteak-roast.svg",
+		"userMessage": "Adam Nagy"
+      }
+    }
+  ]
+}

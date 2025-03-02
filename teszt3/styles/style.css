@@ -1,0 +1,74 @@
+body {
+	 background-image: url("../content/images/main-background.svg");
+	 background-color: lightgray;
+	 background-repeat: no-repeat;
+	 background-size: cover;
+}
+
+@media screen and (max-width: 576px) {
+	 body {
+		 background-repeat: repeat;
+	}
+}
+ .nav-item:hover {
+	 background-color: lightgray;
+}
+ @media screen and (max-width: 992px) {
+	 .navbar-nav-row {
+		 flex-direction: row;
+	}
+	 .item-inline-flex {
+		 display: inline-flex;
+		 margin-right: 20px;
+	}
+}
+ .recipe-div {
+	 float: left;
+	 margin: 20px 42px 20px 0;
+}
+ .recipe-link {
+	 text-decoration: none;
+}
+ .recipe-img {
+	 max-height: 380px;
+}
+ @media screen and (max-width: 576px) {
+	 .recipe-img {
+		 max-height: 320px;
+	}
+}
+ .recipe-div:hover {
+	 transition: all .5s ease-out .1s;
+	 transform: scale(1.1);
+	 box-shadow: 3px 6px 3px 0 grey;
+}
+ .message-img {
+	 width: 92%;
+}
+ .text-justify {
+	 text-align: justify;
+}
+ .img-box-align {
+	 text-align: right;
+}
+ @media screen and (max-width: 992px) {
+	 .message-img {
+		 width: 65%;
+	}
+	 .small-order-2 {
+		 order: 2;
+		 margin-bottom: 10px;
+	}
+	 .small-order-1 {
+		 order: 1;
+		 margin-bottom: 10px;
+	}
+	 .img-box-align {
+		 text-align: center;
+	}
+}
+ @media screen and (max-width: 768px) {
+	 .message-img {
+		 width: 100%;
+	}
+}

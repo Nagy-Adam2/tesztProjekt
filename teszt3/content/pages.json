@@ -1,0 +1,87 @@
+{
+    "index" : {
+        "enabled" : true,
+        "class" : "IndexController",
+        "template" : "images.html",
+        "basePage" : "index.html",
+        "permission" : 0
+    },
+    "imagesen" : {
+        "enabled" : true,
+        "class" : "ImagesControllerEn",
+        "template" : "imagesen.html",
+        "basePage" : "index.html",
+        "permission" : 0
+    },
+    "imagesde" : {
+        "enabled" : true,
+        "class" : "ImagesControllerDe",
+        "template" : "imagesde.html",
+        "basePage" : "index.html",
+        "permission" : 0
+    },
+    "navigation" : {
+        "enabled" : true,
+        "class" : "NavigationController",
+        "template" : "navigation.html",
+        "basePage" : "index.html",
+        "permission" : 0
+    },
+    "notFound" : {
+        "enabled" : true,
+        "template" : "404.html",
+        "class" : "NotFoundController",
+        "basePage" : false,
+        "permission" : 0
+    },
+    "messages" : {
+        "enabled" : true,
+        "template" : "messages.html",
+        "class" : "MessagesController",
+        "basePage" : "index.html",
+        "permission" : 0
+    },
+    "messagesen" : {
+        "enabled" : true,
+        "template" : "messagesen.html",
+        "class" : "MessagesControllerEn",
+        "basePage" : "index.html",
+        "permission" : 0
+    },
+    "messagesde" : {
+        "enabled" : true,
+        "template" : "messagesde.html",
+        "class" : "MessagesControllerDe",
+        "basePage" : "index.html",
+        "permission" : 0
+    },
+    "admin" : {
+        "enabled" : true,
+        "template" : "admin_main.html",
+        "class" : "AdminController",
+        "basePage" : "admin.html",
+        "permission" : 1
+    },
+    "texts" : {
+        "enabled" : true,
+        "template" : "texts.html",
+        "class" : "AdminTextsController",
+        "basePage" : "admin.html",
+        "permission" : 1
+    },
+    "login" : {
+        "enabled" : true,
+        "template" : "login.html",
+        "class" : "LoginController",
+        "basePage" : false,
+        "permission" : 0
+    }
+    ,
+    "logout" : {
+        "enabled" : true,
+        "template" : "logout.html",
+        "class" : "LogoutController",
+        "basePage" : false,
+        "permission" : 0
+    }
+}
